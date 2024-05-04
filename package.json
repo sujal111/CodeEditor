@@ -10,8 +10,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@types/dompurify": "^3.0.5",
+    "ace-builds": "^1.33.1",
+    "dompurify": "^3.1.2",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-ace": "^11.0.1",
+    "react-dom": "^18.2.0",
+    "react-markdown": "^8.0.6"
   },
   "devDependencies": {
     "@types/react": "^18.2.66",
